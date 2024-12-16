@@ -1,0 +1,5 @@
+__pycache__
+*.tif
+*.jpg
+*.png
+best_model.keras

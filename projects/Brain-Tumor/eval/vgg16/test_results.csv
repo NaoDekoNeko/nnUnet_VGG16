@@ -1,0 +1,4 @@
+Metric,Value
+Test Loss,0.0361
+Test Accuracy,0.9891
+Dice Coefficient,0.6556292
